@@ -1,10 +1,10 @@
-# Sacramento Housing Market Analysis
+# Davis Housing Market Analysis
 
 ## Project Overview
-This project analyzes rental listings in Sacramento, California to provide insights into rental prices, property types, neighborhoods, and key listing features. The goal is to help people understand market trends, compare apartments versus houses, and identify key factors that influence rent prices.
+This project analyzes rental listings in a 50 mile radius of Davis, California to provide insights into rental prices, property types, neighborhoods, and key listing features. The goal is to help people understand market trends, compare apartments versus houses, and identify key factors that influence rent prices.
 
 ## Problem Statement
-How does the rental market in Sacramento vary by property type, neighborhood, and features such number of bedrooms/bathrooms? 
+How does the rental market in Davis vary by property type, neighborhood, and features such number of bedrooms/bathrooms? 
 
 ## Key Insights
 - Apartments generally have smaller average rents 
@@ -28,11 +28,11 @@ How does the rental market in Sacramento vary by property type, neighborhood, an
 - Excel / CSV for output data
 
 ## How to Use
-1. Start with Sacramento_Housing.ipynb for a short summary of how I scraped the data
-2. Open Sacramento_Housing.xlsx to see the output data
+1. Start with Davis_Housing.ipynb for a short summary of how I scraped the data
+2. Open Housing_Analysis.xlsx to see the output data
 3. Open Housing_Price_Analysis_Report.pbix in Power BI Desktop
 4. Interact with slicers to filter by property type, neighborhood, or number of bedrooms
-5. Explore the map, charts, and KPI cards for insights into Sacramento’s rental market
+5. Explore the map, charts, and KPI cards for insights into Davis’s rental market
 
 
 
