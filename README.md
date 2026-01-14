@@ -9,7 +9,7 @@ How does the rental market in Davis vary by property type, neighborhood, and fea
 ## Key Insights
 - Apartments generally have smaller average rents 
 - Houses have higher average prices per square foot.
-- Neighborhoods like Midtown and Downtown show the highest average rents.
+- Neighborhoods like Davis and Woodland show the highest average rents.
 - Number of bedrooms and property type significantly impact rent.
 - Number of bathrooms does not show correlation with price besides the jump from 1 to 2.
 
